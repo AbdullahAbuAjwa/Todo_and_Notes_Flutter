@@ -2,6 +2,7 @@
 
 Todo and Notes app.
 
+I developed this app using Flutter framework, Dart language, SQLite database, Provider State management.
 
 ## Advantages of the application:
 - Add notes, you can edit, favorite and share them.
