@@ -1,16 +1,16 @@
-# note_app
+# Todo and Notes - Flutter
 
-A new Flutter application.
+Todo and Notes app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Advantages of the application:
+- Add notes, you can edit, favorite and share them.
+- Add a to-do list, and choose the appropriate color for the card.
+- Multilingual "Arabic and English".
+- Supported dark mode.
+- Responsive.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+LinkedIn: [Abdullah Abu Ajwa](https://www.linkedin.com/in/abdullahabuajwa/) .
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
